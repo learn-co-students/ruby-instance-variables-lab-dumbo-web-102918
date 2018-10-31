@@ -1,7 +1,7 @@
 # Instance Variables
 
 ## Objectives
-1. Define instance variables.
+1. Define instance variables.https://learn.co/tracks/web-development-immersive-2-0-module-one/object-oriented-ruby/object-properties/instance-variables#
 2. Distinguish instance variables from local variables.
 3. Describe how instance variables give objects attributes and properties.
 
